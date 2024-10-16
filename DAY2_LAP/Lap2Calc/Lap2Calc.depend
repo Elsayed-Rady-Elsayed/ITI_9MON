@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729074926 source:d:\iti\laps\lap1\lap2calc\main.c
+	<stdio.h>
+	<stdlib.h>
+
