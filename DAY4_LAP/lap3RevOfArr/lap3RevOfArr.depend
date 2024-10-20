@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729419681 source:d:\iti\laps\lap3revofarr\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1729420561 source:d:\iti\laps\lap3fullname\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

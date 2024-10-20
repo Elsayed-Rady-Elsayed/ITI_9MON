@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729415768 source:d:\iti\laps\lap3threeempstruct\main.c
+	<stdio.h>
+	<stdlib.h>
+
