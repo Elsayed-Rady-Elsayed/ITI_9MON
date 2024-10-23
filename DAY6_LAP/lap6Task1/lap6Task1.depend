@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1729679995 source:d:\iti\laps\lap6task1\main.c
+	<stdio.h>
+	<stdlib.h>
+
